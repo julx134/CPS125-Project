@@ -1,4 +1,4 @@
-# CPS125-Project
+# Five Great Lakes Project
 This  C project was in development for a month and was finished on April 2019 as a culminating project.
 
 The project served to test the skills and theories learned during lectures and apply it in real life application.In this case, it was to use the data collected from the Great Lakes over the years and use C to sort the data using functions in order to tackle practical questions related to the Great Lakes.
